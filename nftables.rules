@@ -2,7 +2,7 @@
 # This will require interpretations and updates based on your own environment and situation. You will need 
 # to use your own judgement and be prepared to make changes if you are going to build off of this.
 
-# This file is based on my video: https://www.youtube.com/watch?v=v15ac5ssoco
+# This file is based on the video: https://www.youtube.com/watch?v=v15ac5ssoco
 
 # --- /etc/nftables.conf
 #!/usr/sbin/nft -f
